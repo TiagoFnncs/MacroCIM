@@ -1,4 +1,4 @@
-# Botão de Pânico Pessoal com Gatilho em Fone Bluetooth
+# Botão de Pânico Pessoal com Gatilho em Fone Bluetooth para o aplicativo CIM
 
 Este repositório contém uma macro para o aplicativo **MacroDroid** que transforma um botão de mídia de um dispositivo Bluetooth (como um fone TWS) em um botão de pânico pessoal.
 
